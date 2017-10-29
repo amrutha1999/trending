@@ -1,7 +1,7 @@
 ## (Unofficial) GitHub Trending API
 #### _A tiny Ruby API for the trending repositories on GitHub_
 
-This API powers a little iPhone app I'm working called [Repo](https://github.com/richardburton/Repo). It shows you the trending repositories that are built with the languages you love.
+This API powers a little iPhone app I'm working cssssalled [Repo](https://github.com/richardburton/Repo). It shows you the trending repositories that are built with the languages you love.
 
 Example request: http://githubtrending.herokuapp.com/trending?languages[]=ruby&languages[]=objective-c
 
@@ -9,7 +9,7 @@ Example response:
 
     {
       "ruby": [
-        {
+        { (dfzxfdpushorigin margui)
           "rank": "#1",
           "title": "gitlabhq/gitlabhq",
           "description": "Project management and code hosting  application. Follow us on twitter @gitlabhq",
